@@ -44,7 +44,8 @@ Challenge yourself with a terrifying new world that only exists to spite you. Sa
   [Zapsplat](https://www.zapsplat.com/)<br/>
   [Freesound](https://freesound.org/)<br/>
   
-  Additional credits to the 2022 spectre contest winners, VectorV and TheCommonCard!<br/><br/>
+  Spectre contest winners: TheCommonCard, VectorV<br/>
+  Gore contest winners: Alchemical Stein, Vitemyn, CyberCider<br/><br/>
   
 </details>
 
