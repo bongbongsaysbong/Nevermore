@@ -63,7 +63,7 @@ Challenge yourself with a terrifying new world that only exists to spite you. Sa
   __🛠️ Can I run Nevermore with other datapacks? / Why are textures replaced with those of other datapacks?__<br/>
   You'll just need to merge the resourcepacks of any other datapack you're using via Weld, or manually if you like suffering. This means you'll have to use the datapack version instead of the mod however. Nevermore contains all of our project's assets combined already.<br/>
   ➼ [Weld](https://weld.smithed.dev)<br/>
-  ➼ [Nevermore]([https://weld.smithed.dev](https://modrinth.com/mod/nevermore))<br/>
+  ➼ [Nevermore](https://modrinth.com/mod/nevermore)<br/>
   
   __🔎 Rendering issues caused by OptiFine and Sodium__<br/>
   OptiFine tends to cause issues with our datapacks. These may include rotated or invisible monsters, a sanity bar offset and more. We're not exactly sure why, as OptiFine is closed source. There's many better alternatives. Additionally, shaders (whether they be Iris or OptiFine) will override our projects and not work. Sodium may cause issues too.<br/>
