@@ -34,6 +34,7 @@ Challenge yourself with a terrifying new world that only exists to spite you. Sa
   ShockMicro - [Emissive textures](https://github.com/ShockMicro/VanillaDynamicEmissives)<br/>
   Godlander - [ObjMC](https://github.com/Godlander/objmc)<br/>
   Ancientkingg - [FancyPants](https://github.com/Ancientkingg/fancyPants)<br/>
+  BradleyQ - [Stable Player Display](https://github.com/bradleyq/stable_player_display)<br/>
   
   __Translations:__<br/>
   Chinese (zh_cn) - IceBear<br/>
