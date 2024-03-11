@@ -26,8 +26,8 @@ Challenge yourself with a terrifying new world that only exists to spite you. Sa
   ElBones - Artist, brainstorming<br/>
   CreeperMagnet_ - Miscellaneous code<br/>
   the der discohund - [Shader code](https://github.com/HalbFettKaese/)<br/>
-  chlo, Nuclear Crackhead-239 - Soundtrack<br/><br/>
-  Amber Gray - Corpseflute sounds<br/>
+  chlo, Nuclear Crackhead-239 - Soundtrack<br/>
+  Sydokiddo, Amber Gray - Miscellaneous sounds<br/>
   
   __Libraries:__<br/>
   TheNuclearNexus & co. - [Various smithed libraries](https://smithed.dev/libraries)<br/>
