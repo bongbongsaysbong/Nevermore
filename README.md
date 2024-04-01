@@ -1,18 +1,16 @@
-<p align="center">
-  <img width='25%' src="https://github.com/TheNuclearNexus/smithed/blob/master/public/sponsored_project.png?raw=true">
-</p>
+## 🌀 About 🌀
 
-## 👁️🩸 About 🩸👁️
+Nevermore is an official compilation of our projects!
 
-Nevermore is an official compilation of Manic and Sanguine, and whatever other future projects we have! Here you can find the wiki and downloads.
-
-Challenge yourself with a terrifying new world that only exists to spite you. Sacrifice your sanity to the dark arts, and descend further than before. Conquer terrifying blood moons, and test your survival with terrifying new monsters. Wield powerful new tools, decipher eldritch text lost to time, commit powerful new rituals and a whole lot more! You may even uncover the mysteries this strange new world hides...
+Blood moons, insanity, technology and more galore! Explore new structures, fight a ton of new monsters, obtain new toolsets, fight bosses and sacrifice your mind to the dark and taboo arts of this mysterious world! Create a redstone revolution! Take on fierce monsters and more! The world is dangerous yet fulfilling.
 
 ## 🔗 Links 🔗
 * [Discord server](https://discord.gg/jsbRvexYqA)
 * [Download on Modrinth!](https://modrinth.com/datapack/nevermore)
 * [Manic](https://modrinth.com/datapack/manic)
 * [Sanguine](https://modrinth.com/datapack/sanguine)
+* [Jolted](https://modrinth.com/datapack/jolted)
+* [Monster Roster](https://modrinth.com/datapack/monster-roster)
 
 ## 📦 Additional 📦
 
