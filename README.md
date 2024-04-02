@@ -11,6 +11,7 @@ Blood moons, insanity, technology and more galore! Explore new structures, fight
 * [Sanguine](https://modrinth.com/datapack/sanguine)
 * [Jolted](https://modrinth.com/datapack/jolted)
 * [Monster Roster](https://modrinth.com/datapack/monster-roster)
+* [Far Reaches](https://modrinth.com/datapack/far-reaches)
 
 ## 📦 Additional 📦
 
