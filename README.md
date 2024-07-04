@@ -5,7 +5,7 @@ Nevermore is an official compilation of our projects!
 Blood moons, insanity, technology and more galore! Explore new structures, fight a ton of new monsters, obtain new toolsets, fight bosses and sacrifice your mind to the dark and taboo arts of this mysterious world! Create a redstone revolution! Take on fierce monsters and more! The world is dangerous yet fulfilling.
 
 ## 🔗 Links 🔗
-* [Discord server](https://discord.gg/jsbRvexYqA)
+* [Discord server](https://discord.gg/insomniacs-788647610155663380)
 * [Download on Modrinth!](https://modrinth.com/datapack/nevermore)
 * [Manic](https://modrinth.com/datapack/manic)
 * [Sanguine](https://modrinth.com/datapack/sanguine)
